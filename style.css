@@ -1,0 +1,314 @@
+html{
+    font-size: 16px;
+}
+p {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border:1px solid transparent border-box;
+}
+#ebay{
+    margin-right:2.5rem;
+    max-width: 3.75rem;
+}
+.head{
+    display: flex;
+    align-items: center;
+}
+.spaces {
+    margin-left: 37.5rem;
+}
+
+.margin-left {
+    margin-left: 5rem;
+}
+
+/*.thickness{
+    border: none;
+    border-top: 4px rgb(rgb(194, 193, 193), green, blue);
+}*/
+.navbar {
+    height: 3.125rem;
+    width: 15.625rem;
+    background-color: #ffffff;
+    color: #555;
+    margin-right: 3.125rem;
+
+}
+
+.width-box {
+    width: 37.5rem;
+    height: 2.5rem;
+}
+
+
+
+.category {
+    height: 2.5rem;
+    width: 11.25rem;
+}
+
+.search {
+    color: white;
+    text-shadow: none;
+    border-radius: 0;
+    background-color: blue;
+    background-clip: border-box;
+    padding: 0.5rem 1rem;
+    font: size 1.25rem;;
+}
+
+#a:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#b:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#c:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#d:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#e:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#f:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#g:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#h:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#i:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#j:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#k:hover {
+
+    color: blue;
+    text-decoration: underline;
+}
+
+.image {
+    vertical-align: top;
+    background-color: #fbcd25;
+
+}
+
+#aa {
+    color: #592e13;
+    margin-left: 3.75rem;
+    background-color: #fbcd25;
+    font-size: 1.875rem;
+    border: 0.0625rem solid #592e13;
+    padding: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+#aa:hover {
+    color: #fbcd25;
+    background-color: #592e13;
+    border: 1px solid #fbcd25;
+}
+
+.z:hover {
+
+    text-decoration: underline;
+
+}
+
+.bb {
+    font-size: 1.5625rem;
+    border-right: 0.5px solid gray;
+}
+
+.cut {
+    text-decoration: line-through;
+}
+
+
+
+.laptop:hover {
+    text-decoration: underline;
+
+}
+
+.ps5:hover {
+    text-decoration: underline;
+
+}
+
+.aaa {
+    background-color: #592e13;
+    color: #ffffff;
+    border: 1px solid #592e13;
+    padding-left: 1.25rem;
+    padding-top: 2.1875rem;
+    padding-bottom: 0.625rem;
+}
+
+#bcd {
+    border: 1px solid white;
+    text-align: center;
+    padding: 01rem 0.5rem;
+    background-color: #592e13;
+}
+
+#bcd:hover {
+    color: #592e13;
+    border: 1px solid #592e13;
+    background-color: white;
+}
+
+#xx {
+    font-size: 1.5625rem;
+    text-decoration: none;
+    color: black;
+}
+
+#xx:hover {
+    text-decoration: underline
+}
+
+.destination {
+    text-decoration: none;
+    color: black;
+    margin-left: 3.125rem;
+}
+
+.destination:hover {
+    text-decoration: underline;
+}
+
+.image {
+    background-image: "discover2.png";
+    min-width: 81.25rem;
+    min-height: 6.25rem;
+    padding-bottom: 1.25rem;
+
+
+}
+
+.font {
+    text-align: end;
+    font-size: 2.8125rem;
+    color: #592e13;
+    font-weight: 700;
+    padding: 3.125rem;
+
+}
+
+.font2 {
+    font-size: 0.9375rem;
+    color: #592e13;
+    font-weight: 700;
+    padding: 3.125rem;
+
+}
+
+.font3 {
+    font-size: 0.9375rem;
+    color: #592e13;
+    font-weight: 700;
+    border: #592e13 1px solid;
+    padding: 0.625rem;
+}
+
+.abxc {
+
+    border: #592e13 1px solid;
+    padding: 0.625rem;
+}
+
+.abxc:hover {
+    text-decoration: none;
+    color: rgb(251, 205, 37);
+    background-color: #592e13;
+    border: rgb(251, 205, 37) 1px solid;
+}
+
+.time {
+    background-color: #01718f;
+    color: #ffffff;
+    flex-direction: column;
+    padding-bottom: 7.5rem;
+    padding-left: 1.25rem;
+    padding-right: 2.5rem;
+    padding-top: 1.875rem;
+}
+
+.kik {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.kik:hover {
+    text-decoration: underline;
+}
+
+.kkk {
+    border: 1px solid #ffffff;
+    padding: 0.5rem;
+
+}
+
+.kkk:hover {
+    border: 1px solid #01718f;
+    color: #01718f;
+    background-color: #ffffff;
+}
+
+.down {
+    color: gray;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.down2 {
+    color: gray;
+    font-size: 0.875rem;
+    text-decoration: none;
+}
+
+.down:hover {
+    text-decoration: underline;
+}
+
+.down2:hover {
+    text-decoration: underline;
+}
